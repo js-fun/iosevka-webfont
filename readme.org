@@ -30,3 +30,8 @@ Curiosity is one the permanent and certain characteristics of a vigorous mind
 
 #+end_quote
 
+* Fonts
+
+- [[iosevka-term-ss08-17.0.2/iosevka-term-ss08.css][iosevka-term-ss08.css]]
+- [[iosevka-aile-17.0.2/iosevka-aile.css][iosevka-aile.css]]
+- [[iosevka-etoile-17.0.2/iosevka-etoile.css][iosevka-etoile.css]]
