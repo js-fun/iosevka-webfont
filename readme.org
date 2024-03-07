@@ -2,9 +2,9 @@
 #+EXPORT_FILE_NAME: index.html
 #+OPTIONS: author:nil timestamp:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://js-fun.github.io/iosevka-webfont/iosevka-term-ss08-17.0.2/iosevka-term-ss08.css" />
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://js-fun.github.io/iosevka-webfont/iosevka-etoile-17.0.2/iosevka-etoile.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://js-fun.github.io/iosevka-webfont/iosevka-aile-17.0.2/iosevka-aile.css" />
 #+HTML_HEAD: <style type="text/css">
-#+HTML_HEAD: body{font-family: 'Iosevka Etoile Web'}
+#+HTML_HEAD: body{font-family: 'Iosevka Aile Web'}
 #+HTML_HEAD: pre,code{font-family: 'Iosevka Term SS08 Web'}
 #+HTML_HEAD: </style>
 
@@ -32,6 +32,6 @@ Curiosity is one the permanent and certain characteristics of a vigorous mind
 
 * Fonts
 
-- [[iosevka-term-ss08-17.0.2/iosevka-term-ss08.css][iosevka-term-ss08.css]]
-- [[iosevka-aile-17.0.2/iosevka-aile.css][iosevka-aile.css]]
-- [[iosevka-etoile-17.0.2/iosevka-etoile.css][iosevka-etoile.css]]
+- [[https://js-fun.github.io/iosevka-webfont/iosevka-term-ss08-17.0.2/iosevka-iosevka-term-ss08.css][iosevka-term-ss08.css]]
+- [[https://js-fun.github.io/iosevka-webfont/iosevka-aile-17.0.2/iosevka-iosevka-aile.css][iosevka-aile.css]]
+- [[https://js-fun.github.io/iosevka-webfont/iosevka-etoile-17.0.2/iosevka-iosevka-etoile.css][iosevka-etoile.css]]
